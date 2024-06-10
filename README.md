@@ -4,7 +4,7 @@ Things done in project-
 
   1) Exploratory Data Analysis - including creating pie charts, bar graphs, histograms, geoplots etc. to visualize data better
   
-  2) Understanding what type content is available in different countries, which month of the year or which day of the most do most of the content gets added, release years of TV-shows and movies and their trends over the years etc.
+  2) Understanding what type content is available in different countries, which month of the year or which day of the most do most of the content gets added, release years of       TV-shows and movies and their trends over the years etc.
 
   3) Clustering similar content by matching text-based features
 
