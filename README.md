@@ -10,5 +10,4 @@ Things done in project-
 
   4) Finally generating recommendation (using cosine_similarity) for a given movie/TV show based on user ratings and clustering (k-means elbow unsupervised learning)
 
-https://github.com/prathisthahaha/ml_projects/assets/103099240/bac4ba30-a1d9-49c2-9f5d-53ad238287d2
-
+https://github.com/Shreyan-A0I/netflix_ml/assets/103099240/bac4ba30-a1d9-49c2-9f5d-53ad238287d2
